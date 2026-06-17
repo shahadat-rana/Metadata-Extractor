@@ -1,0 +1,8 @@
+{
+  "name": "Metadata Extractor",
+  "description": "Extract structured tables and data from PDF documents or images and export them to Microsoft Excel (.xlsx) spreadsheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
